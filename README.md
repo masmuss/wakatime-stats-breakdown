@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-```json
+```rust
 From: 14 January 2024 - To: 21 January 2024
 
 Total Time: 21 hrs 41 mins
