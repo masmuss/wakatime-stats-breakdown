@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 January 2024 - To: 22 January 2024
+From: 16 January 2024 - To: 23 January 2024
 
-Total Time: 25 hrs 25 mins
+Total Time: 20 hrs 38 mins
 
-TypeScript   12 hrs 36 mins  ████████████▒░░░░░░░░░░░░   49.14 %
-C#           7 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.38 %
-CSHTML       3 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-MDX          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Prisma       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TypeScript   14 hrs 43 mins  █████████████████▓░░░░░░░   70.61 %
+C#           3 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+MDX          57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Prisma       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+CSHTML       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
