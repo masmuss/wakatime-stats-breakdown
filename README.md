@@ -1,17 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-Total Time: 9 hrs 51 mins
+Total Time: 10 hrs 45 mins
 
-TypeScript       7 hrs 57 mins   ████████████████████▒░░░░   80.74 %
-Prisma           46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-C#               25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Bash             22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-SQL              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript       8 hrs 52 mins   ████████████████████▓░░░░   82.54 %
+Prisma           46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+C#               25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Bash             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+SQL              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 CSHTML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
