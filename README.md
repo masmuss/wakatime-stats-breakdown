@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 February 2024 - To: 10 February 2024
+From: 04 February 2024 - To: 11 February 2024
 
-Total Time: 9 hrs 41 mins
+Total Time: 9 hrs 28 mins
 
-C#               5 hrs 33 mins   █████████████▓░░░░░░░░░░░   54.06 %
-TypeScript       2 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-CSHTML           51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Other            35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+C#               5 hrs 36 mins   ██████████████░░░░░░░░░░░   55.73 %
+TypeScript       2 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
+CSHTML           51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Other            35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
 
 <!--END_SECTION:waka-->
