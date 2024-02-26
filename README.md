@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 February 2024 - To: 24 February 2024
+From: 18 February 2024 - To: 25 February 2024
 
-Total Time: 21 hrs 51 mins
+Total Time: 16 hrs
 
-TypeScript            11 hrs 24 mins  █████████████░░░░░░░░░░░░   52.15 %
-CSHTML                6 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.71 %
-CSS                   1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-Prisma                45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-JavaScript            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-C#                    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Shell Script          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-GitIgnore file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-HTTP Request          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+CSHTML                6 hrs 43 mins   ██████████▒░░░░░░░░░░░░░░   41.98 %
+TypeScript            6 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.09 %
+CSS                   1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Prisma                28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+C#                    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Dart                  9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Shell Script          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+JavaScript            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+GitIgnore file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
