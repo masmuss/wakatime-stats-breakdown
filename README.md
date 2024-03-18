@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 March 2024 - To: 16 March 2024
+From: 10 March 2024 - To: 17 March 2024
 
-Total Time: 12 hrs 1 min
+Total Time: 12 hrs 46 mins
 
-TypeScript          6 hrs 49 mins   ██████████████░░░░░░░░░░░   55.79 %
-C#                  1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Dart                1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-JavaScript          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Prisma              27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Bash                20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Other               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+TypeScript          7 hrs 34 mins   ██████████████▓░░░░░░░░░░   58.34 %
+C#                  1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Dart                1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+JavaScript          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Prisma              27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Bash                20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Other               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
