@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 March 2024 - To: 22 March 2024
+From: 16 March 2024 - To: 23 March 2024
 
-Total Time: 20 hrs 23 mins
+Total Time: 23 hrs 33 mins
 
-TypeScript            11 hrs 57 mins  ██████████████▓░░░░░░░░░░   58.61 %
-C#                    4 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-Dart                  1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Prisma                21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Csproj                18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Text                  16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-HTTP Request          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-GitIgnore file        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-MDX                   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TypeScript            10 hrs 16 mins  ███████████░░░░░░░░░░░░░░   43.63 %
+C#                    8 hrs 51 mins   █████████▒░░░░░░░░░░░░░░░   37.60 %
+Dart                  1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+MDX                   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Csproj                19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Text                  16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+JavaScript            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+HTTP Request          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+GitIgnore file        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
