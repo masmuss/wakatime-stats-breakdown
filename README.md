@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 March 2024 - To: 02 April 2024
+From: 27 March 2024 - To: 03 April 2024
 
-Total Time: 24 hrs 24 mins
+Total Time: 31 hrs 45 mins
 
-C#               11 hrs 31 mins  ███████████▓░░░░░░░░░░░░░   47.23 %
-TypeScript       9 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   40.32 %
-Dart             56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-CSHTML           46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Text             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-GitIgnore file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Bash             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-JavaScript       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript       18 hrs 5 mins   ██████████████▒░░░░░░░░░░   56.97 %
+C#               10 hrs 44 mins  ████████▒░░░░░░░░░░░░░░░░   33.81 %
+Dart             56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+CSHTML           34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Text             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+GitIgnore file   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Bash             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JavaScript       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+.env file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
