@@ -1,16 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-Total Time: 8 hrs 15 mins
+Total Time: 11 hrs 34 mins
 
-Dart             5 hrs 47 mins   █████████████████▓░░░░░░░   70.10 %
-TypeScript       2 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
-JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Dart             5 hrs 47 mins   ████████████▓░░░░░░░░░░░░   50.02 %
+TypeScript       5 hrs 6 mins    ███████████░░░░░░░░░░░░░░   44.11 %
+MDX              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+GitIgnore file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+CSS              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+JavaScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+.env file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Shell Script     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
