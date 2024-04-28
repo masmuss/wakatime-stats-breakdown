@@ -1,16 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 April 2024 - To: 26 April 2024
+From: 20 April 2024 - To: 27 April 2024
 
-Total Time: 2 hrs 43 mins
+Total Time: 1 hr 14 mins
 
-TypeScript       1 hr 9 mins     ██████████▓░░░░░░░░░░░░░░   42.58 %
-C#               49 mins         ███████▓░░░░░░░░░░░░░░░░░   30.36 %
-CSHTML           31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-JSON             12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+C#               33 mins         ███████████░░░░░░░░░░░░░░   44.63 %
+CSHTML           30 mins         ██████████▒░░░░░░░░░░░░░░   41.58 %
+JSON             9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
