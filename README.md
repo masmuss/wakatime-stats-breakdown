@@ -1,15 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 May 2024 - To: 23 May 2024
+From: 17 May 2024 - To: 24 May 2024
 
-Total Time: 14 mins
+Total Time: 8 mins
 
-Dart       8 mins          ███████████████░░░░░░░░░░   59.65 %
-C#         5 mins          █████████░░░░░░░░░░░░░░░░   36.34 %
-YAML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-CSHTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Dart       8 mins          ███████████████████████▓░   94.25 %
+YAML       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
