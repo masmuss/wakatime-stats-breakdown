@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2024 - To: 26 May 2024
+From: 20 May 2024 - To: 27 May 2024
 
-Total Time: 8 mins
+Total Time: 16 mins
 
-Dart       8 mins          ███████████████████████▓░   94.25 %
-YAML       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Dart       16 mins         ████████████████████████▒   96.89 %
+YAML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
