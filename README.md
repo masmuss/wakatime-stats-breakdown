@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
 Total Time: 5 hrs 31 mins
 
-Dart             1 hr 45 mins    ████████░░░░░░░░░░░░░░░░░   31.91 %
+Dart             1 hr 45 mins    ████████░░░░░░░░░░░░░░░░░   31.92 %
 TypeScript       1 hr 28 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
 Prisma           53 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
 C#               39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
