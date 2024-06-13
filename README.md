@@ -1,20 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 June 2024 - To: 11 June 2024
+From: 05 June 2024 - To: 12 June 2024
 
-Total Time: 20 hrs 9 mins
+Total Time: 25 hrs 24 mins
 
-CSHTML                    9 hrs 55 mins   ████████████▒░░░░░░░░░░░░   49.18 %
-C#                        9 hrs 6 mins    ███████████▒░░░░░░░░░░░░░   45.19 %
-Dart                      29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-JSON                      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-CSS                       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Csproj                    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-MsBuild targets file      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-XML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+CSHTML                    13 hrs 38 mins  █████████████▒░░░░░░░░░░░   53.72 %
+C#                        11 hrs 8 mins   ███████████░░░░░░░░░░░░░░   43.85 %
+JSON                      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+CSS                       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Csproj                    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+MsBuild targets file      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+XML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 SQL                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 GitIgnore file            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Project file properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
