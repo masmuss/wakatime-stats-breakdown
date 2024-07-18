@@ -1,19 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 July 2024 - To: 16 July 2024
+From: 10 July 2024 - To: 17 July 2024
 
-Total Time: 11 hrs 9 mins
+Total Time: 10 hrs 9 mins
 
-Dart             4 hrs 36 mins   ██████████▒░░░░░░░░░░░░░░   41.25 %
-Java             4 hrs 1 min     █████████░░░░░░░░░░░░░░░░   36.04 %
-XML              2 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
-YAML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Kotlin           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java             4 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.29 %
+XML              3 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   30.35 %
+Dart             2 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+Kotlin           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
