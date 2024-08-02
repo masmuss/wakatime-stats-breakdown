@@ -1,12 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 July 2024 - To: 31 July 2024
+From: 25 July 2024 - To: 01 August 2024
 
-Total Time: 3 hrs
+Total Time: 2 hrs 45 mins
 
-CSHTML   2 hrs 4 mins    █████████████████▒░░░░░░░   68.77 %
-C#       56 mins         ███████▓░░░░░░░░░░░░░░░░░   31.23 %
+CSHTML           1 hr 47 mins    ████████████████▒░░░░░░░░   65.07 %
+C#               51 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 %
+Java             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Dart             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
