@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 August 2024 - To: 22 August 2024
+From: 16 August 2024 - To: 23 August 2024
 
-Total Time: 6 hrs 25 mins
+Total Time: 5 hrs 33 mins
 
-TypeScript   6 hrs 23 mins   █████████████████████████   99.47 %
-Dart         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript   5 hrs 32 mins   █████████████████████████   99.66 %
+Dart         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
