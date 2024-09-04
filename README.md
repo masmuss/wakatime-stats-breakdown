@@ -1,15 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 August 2024 - To: 02 September 2024
+From: 27 August 2024 - To: 03 September 2024
 
-Total Time: 8 hrs 41 mins
+Total Time: 9 hrs 12 mins
 
-TypeScript   7 hrs 59 mins   ███████████████████████░░   92.01 %
-Dart         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript       8 hrs 51 mins   ████████████████████████░   96.21 %
+GitIgnore file   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+.env file        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+CSS              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
