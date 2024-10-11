@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-Total Time: 6 hrs
+Total Time: 7 hrs 37 mins
 
-Dart           3 hrs 44 mins   ███████████████▓░░░░░░░░░   62.26 %
-Astro          1 hr 57 mins    ████████░░░░░░░░░░░░░░░░░   32.50 %
-TypeScript     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-JavaScript     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Markdown       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-TSConfig       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Java           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Dart           4 hrs 27 mins   ██████████████▓░░░░░░░░░░   58.49 %
+Astro          2 hrs 49 mins   █████████▒░░░░░░░░░░░░░░░   37.11 %
+TypeScript     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JavaScript     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Text           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Markdown       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TSConfig       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
