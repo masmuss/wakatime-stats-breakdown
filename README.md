@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 October 2024 - To: 21 October 2024
+From: 15 October 2024 - To: 22 October 2024
 
-Total Time: 14 hrs 1 min
+Total Time: 14 hrs 58 mins
 
-Dart              9 hrs 29 mins   █████████████████░░░░░░░░   67.65 %
-TypeScript        3 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   27.96 %
-JavaScript        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Shell Script      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Gradle            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-CSS               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Dart              9 hrs 29 mins   ███████████████▓░░░░░░░░░   63.32 %
+TypeScript        4 hrs 27 mins   ███████▒░░░░░░░░░░░░░░░░░   29.76 %
+Gradle            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Groovy            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Bash              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Shell Script      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
