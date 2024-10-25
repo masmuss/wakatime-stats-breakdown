@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 October 2024 - To: 23 October 2024
+From: 17 October 2024 - To: 24 October 2024
 
-Total Time: 13 hrs 15 mins
+Total Time: 13 hrs 27 mins
 
-Dart              9 hrs 30 mins   ██████████████████░░░░░░░   71.64 %
-TypeScript        2 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
-Gradle            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Groovy            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Markdown          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Bash              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Dart              10 hrs 44 mins  ████████████████████░░░░░   79.88 %
+TypeScript        1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Groovy            18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Gradle            17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Markdown          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Java Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Bash              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 textmate          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+GitIgnore file    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
