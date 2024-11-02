@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 October 2024 - To: 31 October 2024
+From: 25 October 2024 - To: 01 November 2024
 
-Total Time: 8 hrs 34 mins
+Total Time: 9 hrs 49 mins
 
-Dart              7 hrs 24 mins   █████████████████████▓░░░   86.47 %
-Groovy            14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Java              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Gradle            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Markdown          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Dart              9 hrs 5 mins    ███████████████████████░░   92.58 %
+Java              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Gradle            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Properties        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
