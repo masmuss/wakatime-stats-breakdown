@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 October 2024 - To: 04 November 2024
+From: 29 October 2024 - To: 05 November 2024
 
-Total Time: 12 hrs 38 mins
+Total Time: 13 hrs 38 mins
 
-Dart              11 hrs 55 mins  ███████████████████████▓░   94.28 %
-Java              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-IDEA_MODULE       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Dart              13 hrs 11 mins  ████████████████████████▒   96.68 %
+Java              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+IDEA_MODULE       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Kotlin            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
