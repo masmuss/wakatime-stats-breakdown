@@ -1,19 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 12 November 2024 - To: 19 November 2024
+From: 13 November 2024 - To: 20 November 2024
 
-Total Time: 7 hrs 40 mins
+Total Time: 13 hrs 36 mins
 
-TypeScript   4 hrs 55 mins   ████████████████░░░░░░░░░   64.22 %
-Jupyter      1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-Bash         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Prisma       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-.env file    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Dart         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript       11 hrs          ████████████████████▒░░░░   80.88 %
+Prisma           45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Bash             26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+.env file        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Markdown         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JavaScript       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Shell Script     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
