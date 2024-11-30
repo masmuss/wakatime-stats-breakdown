@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2024 - To: 28 November 2024
+From: 22 November 2024 - To: 29 November 2024
 
-Total Time: 3 hrs 38 mins
+Total Time: 2 hrs 43 mins
 
-TypeScript   3 hrs 4 mins    █████████████████████░░░░   84.47 %
-Prisma       18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Jupyter      14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Jupyter      1 hr 27 mins    █████████████▒░░░░░░░░░░░   53.71 %
+TypeScript   57 mins         ████████▓░░░░░░░░░░░░░░░░   34.96 %
+Prisma       18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
