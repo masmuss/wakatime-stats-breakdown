@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 November 2024 - To: 30 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
-Total Time: 2 hrs 40 mins
+Total Time: 2 hrs 23 mins
 
-Jupyter      1 hr 34 mins    ██████████████▓░░░░░░░░░░   59.10 %
-TypeScript   50 mins         ████████░░░░░░░░░░░░░░░░░   31.64 %
-Dart         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Jupyter      1 hr 34 mins    ████████████████▓░░░░░░░░   66.09 %
+TypeScript   33 mins         ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+Dart         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
