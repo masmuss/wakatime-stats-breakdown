@@ -1,19 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 December 2024 - To: 12 December 2024
+From: 06 December 2024 - To: 13 December 2024
 
-Total Time: 10 hrs 57 mins
+Total Time: 11 hrs 47 mins
 
-TypeScript       4 hrs 45 mins   ███████████░░░░░░░░░░░░░░   43.46 %
-Jupyter          3 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   31.60 %
-Astro            1 hr 50 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-Dart             35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-JavaScript       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-TSConfig         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-MDX              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Jupyter            6 hrs 22 mins   █████████████▓░░░░░░░░░░░   54.06 %
+TypeScript         4 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   39.10 %
+Dart               35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Markdown           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+JavaScript         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+GitIgnore file     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Astro              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+CSV/TSV            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TSConfig           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
