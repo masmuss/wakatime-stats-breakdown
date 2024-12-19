@@ -1,19 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 December 2024 - To: 17 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
-Total Time: 7 hrs 57 mins
+Total Time: 6 hrs 51 mins
 
-Jupyter            5 hrs 55 mins   ██████████████████▓░░░░░░   74.48 %
-TypeScript         52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-Dart               23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Markdown           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Astro              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Vue.js             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-GitIgnore file     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-JavaScript         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-CSS                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Jupyter            3 hrs 42 mins   █████████████▒░░░░░░░░░░░   53.77 %
+TypeScript         1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+Astro              27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Markdown           22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Vue.js             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+JavaScript         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+MDX                3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Other              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
