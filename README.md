@@ -1,18 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 7 hrs 35 mins
+Total Time: 8 hrs 30 mins
 
-TypeScript            6 hrs 6 mins    ████████████████████░░░░░   80.41 %
-Markdown              22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-SQL                   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Astro                 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-JavaScript            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-GitIgnore file        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Text                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-.env file             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript            6 hrs 20 mins   ██████████████████▓░░░░░░   74.53 %
+JavaScript            29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Markdown              22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+SQL                   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Astro                 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Text                  9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+GitIgnore file        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+.env file             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TSConfig              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
