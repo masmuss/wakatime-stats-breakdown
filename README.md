@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 January 2025 - To: 08 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Total Time: 4 hrs 9 mins
+Total Time: 6 hrs 22 mins
 
-Jupyter      2 hrs 49 mins   █████████████████░░░░░░░░   68.02 %
-TypeScript   1 hr 17 mins    ███████▓░░░░░░░░░░░░░░░░░   30.91 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Astro        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-jsonc        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Jupyter      5 hrs 50 mins   ███████████████████████░░   91.58 %
+TypeScript   29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Astro        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+jsonc        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
