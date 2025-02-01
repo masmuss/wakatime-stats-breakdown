@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 January 2025 - To: 30 January 2025
+From: 24 January 2025 - To: 31 January 2025
 
-Total Time: 10 hrs 36 mins
+Total Time: 13 hrs 6 mins
 
-TypeScript     9 hrs 11 mins   █████████████████████▓░░░   86.43 %
-Bash           33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-JavaScript     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Markdown       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-TSConfig       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-SQL            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Other          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TypeScript     11 hrs 41 mins  ██████████████████████▒░░   89.00 %
+Bash           33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+JavaScript     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Markdown       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+TSConfig       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+SQL            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
