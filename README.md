@@ -1,17 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 January 2025 - To: 04 February 2025
+From: 29 January 2025 - To: 05 February 2025
 
-Total Time: 22 hrs 42 mins
+Total Time: 17 hrs 47 mins
 
-TypeScript   21 hrs 22 mins  ███████████████████████▓░   94.06 %
-Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-TSConfig     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-SQL          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   16 hrs 56 mins  ███████████████████████▓░   95.13 %
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
