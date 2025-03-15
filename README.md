@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 March 2025 - To: 13 March 2025
+From: 07 March 2025 - To: 14 March 2025
 
-Total Time: 9 hrs 35 mins
+Total Time: 9 hrs 53 mins
 
-TypeScript     6 hrs 45 mins   █████████████████▓░░░░░░░   70.45 %
-Dart           2 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
-JavaScript     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Gradle         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Groovy         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-CSS            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript     6 hrs 59 mins   █████████████████▓░░░░░░░   70.67 %
+Dart           2 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
+JavaScript     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Gradle         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Groovy         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+CSS            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ObjectiveC     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 C++            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
