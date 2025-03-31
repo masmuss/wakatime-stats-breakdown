@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 March 2025 - To: 29 March 2025
+From: 23 March 2025 - To: 30 March 2025
 
-Total Time: 1 hr 45 mins
+Total Time: 2 hrs 1 min
 
-TypeScript       46 mins         ███████████░░░░░░░░░░░░░░   44.21 %
-Dart             36 mins         ████████▓░░░░░░░░░░░░░░░░   34.32 %
-Bash             12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Dart             1 hr 13 mins    ███████████████░░░░░░░░░░   60.62 %
+TypeScript       36 mins         ███████▒░░░░░░░░░░░░░░░░░   29.63 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
