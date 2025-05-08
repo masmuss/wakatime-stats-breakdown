@@ -1,18 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 April 2025 - To: 06 May 2025
+From: 30 April 2025 - To: 07 May 2025
 
-Total Time: 1 hr 40 mins
+Total Time: 3 hrs 9 mins
 
-TypeScript     1 hr 6 mins     ████████████████▓░░░░░░░░   66.59 %
-Bash           16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-shell script   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Ezhil          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-TSConfig       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Vue.js         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-git ignore     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Astro          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TypeScript     2 hrs 26 mins   ███████████████████▒░░░░░   77.39 %
+Bash           16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+shell script   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+HTTP           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Git Config     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Ezhil          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TSConfig       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+git ignore     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
