@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 May 2025 - To: 01 June 2025
+From: 26 May 2025 - To: 02 June 2025
 
-Total Time: 9 hrs 46 mins
+Total Time: 8 hrs 25 mins
 
-JavaScript       3 hrs 39 mins   █████████▒░░░░░░░░░░░░░░░   36.69 %
-TypeScript       2 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   27.54 %
-Dart             1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JavaScript       3 hrs 39 mins   ██████████▓░░░░░░░░░░░░░░   42.44 %
+TypeScript       1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
+Dart             1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Other            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
