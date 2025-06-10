@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 June 2025 - To: 08 June 2025
+From: 02 June 2025 - To: 09 June 2025
 
-Total Time: 2 hrs 52 mins
+Total Time: 3 hrs 8 mins
 
-Dart         55 mins         ████████░░░░░░░░░░░░░░░░░   32.36 %
-TypeScript   50 mins         ███████▒░░░░░░░░░░░░░░░░░   29.03 %
-Docker       24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Dart         1 hr 12 mins    █████████▓░░░░░░░░░░░░░░░   38.14 %
+TypeScript   50 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
+Docker       24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
