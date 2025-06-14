@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 June 2025 - To: 12 June 2025
+From: 06 June 2025 - To: 13 June 2025
 
-Total Time: 14 hrs 24 mins
+Total Time: 16 hrs 17 mins
 
-Svelte       3 hrs 44 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
-TypeScript   3 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
-Markdown     1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-Astro        1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Vue.js       1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-JavaScript   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-CSS          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Dart         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-TSConfig     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Svelte       4 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
+TypeScript   3 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.58 %
+Astro        2 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Markdown     1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Vue.js       1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+JavaScript   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+CSS          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Dart         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TSConfig     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
