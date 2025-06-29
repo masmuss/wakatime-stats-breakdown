@@ -1,15 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 June 2025 - To: 27 June 2025
+From: 21 June 2025 - To: 28 June 2025
 
-Total Time: 20 hrs 41 mins
+Total Time: 20 hrs 1 min
 
-TypeScript   14 hrs 8 mins   ████████████████▓░░░░░░░░   66.28 %
-JavaScript   1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Markdown     1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Docker       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+TypeScript   13 hrs 37 mins  ████████████████▒░░░░░░░░   65.67 %
+JavaScript   1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+Markdown     1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Other        43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
