@@ -1,17 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 June 2025 - To: 07 July 2025
+From: 01 July 2025 - To: 08 July 2025
 
-Total Time: 2 hrs 53 mins
+Total Time: 3 hrs 49 mins
 
-TypeScript   1 hr 15 mins    ███████████░░░░░░░░░░░░░░   43.58 %
-Astro        47 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
-JavaScript   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Markdown     11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Bash         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Dart         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-MDX          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+TypeScript   1 hr 8 mins     ███████▒░░░░░░░░░░░░░░░░░   29.91 %
+Astro        47 mins         █████░░░░░░░░░░░░░░░░░░░░   20.61 %
+Bash         26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Docker       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+JavaScript   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Dart         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+MDX          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
