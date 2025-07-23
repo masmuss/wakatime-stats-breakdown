@@ -1,19 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 July 2025 - To: 21 July 2025
+From: 15 July 2025 - To: 22 July 2025
 
-Total Time: 25 hrs 35 mins
+Total Time: 27 hrs 50 mins
 
-Astro         8 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.79 %
-Dart          7 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   29.58 %
-TypeScript    2 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-CSS           2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Markdown      1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-JavaScript    1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Image (svg)   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Svelte        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Other         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Dart           10 hrs 50 mins  █████████▓░░░░░░░░░░░░░░░   38.69 %
+Astro          9 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.37 %
+TypeScript     2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+CSS            1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Markdown       1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+JavaScript     1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Other          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
