@@ -1,13 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 July 2025 - To: 28 July 2025
+From: 22 July 2025 - To: 29 July 2025
 
-Total Time: 7 hrs 46 mins
+Total Time: 3 hrs 40 mins
 
-Dart                       3 hrs 37 mins   ███████████░░░░░░░░░░░░░░   43.72 %
-Docker                     37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Other                      30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Docker                     37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Other                      30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
 ```
 
 <!--END_SECTION:waka-->
