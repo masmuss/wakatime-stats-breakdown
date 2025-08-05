@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 July 2025 - To: 03 August 2025
+From: 28 July 2025 - To: 04 August 2025
 
-Total Time: 5 hrs 56 mins
+Total Time: 8 hrs 49 mins
 
-Docker                     1 hr 55 mins    ████████░░░░░░░░░░░░░░░░░   32.04 %
-TypeScript                 1 hr 10 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 %
-Bash                       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Markdown                   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Git Config                 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Shell Script               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Text                       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Other                      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Docker                     1 hr 55 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+Markdown                   1 hr 40 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+TypeScript                 1 hr 36 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
+Image (svg)                32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Astro                      21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Bash                       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Git Config                 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Shell Script               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
