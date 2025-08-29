@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Total Time: 5 hrs 10 mins
+Total Time: 11 hrs
 
-Go                    3 hrs 3 mins    ██████████████▓░░░░░░░░░░   59.21 %
-Markdown              59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
-SQL                   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-HTTP Request          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Docker                9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Astro                 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Makefile              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-DockerIgnore file     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-TypeScript            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Go                  5 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   47.00 %
+Astro               3 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.43 %
+Markdown            1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+HTTP Request        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+SQL                 21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Docker              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TypeScript          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+CSS                 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Makefile            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
