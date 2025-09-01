@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Total Time: 14 hrs 14 mins
+Total Time: 14 hrs 34 mins
 
-Astro            6 hrs 30 mins   ███████████▒░░░░░░░░░░░░░   45.65 %
-Go               3 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
-Markdown         1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-CSS              1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-TypeScript       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-SQL              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-HTTP Request     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Astro            6 hrs 46 mins   ███████████▓░░░░░░░░░░░░░   46.45 %
+Go               3 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+Markdown         1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+CSS              1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+TypeScript       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+SQL              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+HTTP Request     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 .env file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
