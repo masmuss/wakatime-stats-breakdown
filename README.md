@@ -1,20 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-Total Time: 5 hrs 22 mins
+Total Time: 5 hrs 58 mins
 
-Go                    3 hrs 41 mins   █████████████████▒░░░░░░░   68.69 %
-HTTP Request          26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Dart                  15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Markdown              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-SQL                   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Makefile              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-.env file             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Bash                  5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-git ignore            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-GitIgnore file        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Go                    4 hrs 30 mins   ███████████████████░░░░░░   75.58 %
+HTTP Request          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Dart                  13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Markdown              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+SQL                   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Makefile              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+.env file             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Bash                  5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+git ignore            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Shell Script          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
