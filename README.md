@@ -1,15 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 September 2025 - To: 30 September 2025
+From: 25 September 2025 - To: 02 October 2025
 
-Total Time: 9 mins
+Total Time: 2 hrs 10 mins
 
-GitIgnore file   3 mins          ██████████▓░░░░░░░░░░░░░░   42.99 %
-Makefile         3 mins          ████████▓░░░░░░░░░░░░░░░░   34.14 %
-Go               0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Markdown         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-HTTP Request     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Go               1 hr 22 mins    ████████████████░░░░░░░░░   63.38 %
+Makefile         21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+Text             12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+HTTP Request     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
