@@ -1,18 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 September 2025 - To: 05 October 2025
+From: 29 September 2025 - To: 06 October 2025
 
-Total Time: 2 hrs 42 mins
+Total Time: 4 hrs 47 mins
 
-Go               1 hr 32 mins    ██████████████▒░░░░░░░░░░   56.76 %
-Makefile         21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
-Text             12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-HTTP Request     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-jsonc            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-go mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Go               2 hrs 10 mins   ███████████▒░░░░░░░░░░░░░   45.44 %
+TypeScript       57 mins         █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+Makefile         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Text             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Markdown         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+CSS              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+jsonc            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+HTTP Request     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+go mod           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
