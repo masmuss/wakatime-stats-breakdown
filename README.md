@@ -1,18 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 October 2025 - To: 18 October 2025
+From: 12 October 2025 - To: 19 October 2025
 
-Total Time: 16 hrs 50 mins
+Total Time: 18 hrs 55 mins
 
-TypeScript       10 hrs 24 mins  ███████████████▒░░░░░░░░░   61.83 %
-Go               5 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   33.99 %
-CSS              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Markdown         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-textmate         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Astro            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-.env file        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript       10 hrs 24 mins  █████████████▓░░░░░░░░░░░   55.02 %
+Go               7 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.71 %
+CSS              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Makefile         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+textmate         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Astro            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
