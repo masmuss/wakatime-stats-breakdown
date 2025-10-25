@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 October 2025 - To: 23 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
-Total Time: 23 hrs 22 mins
+Total Time: 24 hrs 39 mins
 
-Blade Template   9 hrs 41 mins   ██████████▒░░░░░░░░░░░░░░   41.49 %
-Go               6 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   27.57 %
-PHP              4 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-JavaScript       1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-CSS              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Makefile         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Markdown         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Bash             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-SQL              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Blade Template   12 hrs 3 mins   ████████████▒░░░░░░░░░░░░   48.90 %
+PHP              7 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   28.76 %
+Go               2 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+JavaScript       1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+SQL              37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Makefile         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Bash             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Markdown         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
