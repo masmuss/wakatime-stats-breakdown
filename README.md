@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 October 2025 - To: 03 November 2025
+From: 29 October 2025 - To: 05 November 2025
 
-Total Time: 17 hrs 5 mins
+Total Time: 23 hrs 47 mins
 
-PHP              7 hrs           ██████████▒░░░░░░░░░░░░░░   40.99 %
-Blade Template   4 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.07 %
-TypeScript       3 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   20.51 %
-JavaScript       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-.env file        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Markdown         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-CSS              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Bash             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-HTML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Blade Template   9 hrs 55 mins   ██████████▒░░░░░░░░░░░░░░   41.74 %
+PHP              7 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   31.78 %
+TypeScript       3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Markdown         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+HTML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+.env file        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JavaScript       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Prisma           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+CSS              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
