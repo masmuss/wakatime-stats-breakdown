@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 November 2025 - To: 09 November 2025
+From: 03 November 2025 - To: 10 November 2025
 
-Total Time: 18 hrs 40 mins
+Total Time: 13 hrs 7 mins
 
-Blade Template   9 hrs 58 mins   █████████████▒░░░░░░░░░░░   53.45 %
-TypeScript       3 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-PHP              2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-Markdown         1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-HTML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-CSS              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Prisma           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-.env file        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Bash             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Blade Template   7 hrs 21 mins   ██████████████░░░░░░░░░░░   56.02 %
+TypeScript       1 hr 51 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+PHP              1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Markdown         1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+HTML             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Prisma           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Astro            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+jsonc            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
