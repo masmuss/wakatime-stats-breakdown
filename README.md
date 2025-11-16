@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 November 2025 - To: 14 November 2025
+From: 08 November 2025 - To: 15 November 2025
 
-Total Time: 10 hrs 2 mins
+Total Time: 13 hrs 33 mins
 
-TypeScript       4 hrs 52 mins   ████████████░░░░░░░░░░░░░   48.51 %
-PHP              1 hr 54 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-Blade Template   1 hr 49 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-Markdown         39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-CSS              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-git ignore       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-jsonc            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Log              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript       7 hrs 23 mins   █████████████▓░░░░░░░░░░░   54.46 %
+PHP              1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+Blade Template   1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+Markdown         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+TSConfig         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Bash             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Git Config       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JavaScript       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+CSS              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
