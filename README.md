@@ -1,20 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
-Total Time: 11 hrs 54 mins
+Total Time: 11 hrs 28 mins
 
-Vue.js           4 hrs 16 mins   █████████░░░░░░░░░░░░░░░░   35.80 %
-PHP              2 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
-TypeScript       2 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-Blade Template   1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-Go               31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-HTML             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Dart             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JavaScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-.env file        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Vue.js           4 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   40.98 %
+TypeScript       2 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+PHP              1 hr 46 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+Blade Template   1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Go               31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+HTML             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+.env file        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
