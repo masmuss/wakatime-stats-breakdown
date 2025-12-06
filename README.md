@@ -1,20 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 November 2025 - To: 04 December 2025
+From: 28 November 2025 - To: 05 December 2025
 
-Total Time: 12 hrs 51 mins
+Total Time: 10 hrs 46 mins
 
-Blade Template        6 hrs 5 mins    ████████████░░░░░░░░░░░░░   47.35 %
-PHP                   3 hrs 51 mins   ███████▓░░░░░░░░░░░░░░░░░   30.03 %
-HTTP Request          58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-Dart                  24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Docker                17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Go                    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Groovy                13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-CSS                   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Markdown              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-.env file             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Blade Template        5 hrs 49 mins   █████████████▓░░░░░░░░░░░   54.08 %
+PHP                   2 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+HTTP Request          58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Docker                17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Markdown              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+CSS                   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+.env file             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Bash                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Go                    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
