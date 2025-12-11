@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-Total Time: 14 hrs 35 mins
+Total Time: 19 hrs 38 mins
 
-Blade Template   6 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.96 %
-Svelte           3 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-PHP              1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-TypeScript       1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Markdown         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Bash             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-HTTP Request     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-shell script     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Svelte           7 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.92 %
+Blade Template   5 hrs 55 mins   ███████▓░░░░░░░░░░░░░░░░░   30.11 %
+TypeScript       3 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+PHP              59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Markdown         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+CSS              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Bash             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+HTTP Request     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
