@@ -1,20 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 December 2025 - To: 18 December 2025
+From: 12 December 2025 - To: 19 December 2025
 
-Total Time: 15 hrs 14 mins
+Total Time: 19 hrs 36 mins
 
-Go                  8 hrs 42 mins   ██████████████▒░░░░░░░░░░   57.12 %
-Markdown            1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Svelte              1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Makefile            44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-SQL                 27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Blade Template      25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-HTTP                15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Docker              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-TypeScript          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Bash                11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Go                  10 hrs 22 mins  █████████████▒░░░░░░░░░░░   52.89 %
+Markdown            2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+SQL                 1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Svelte              1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Makefile            46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Blade Template      25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+HTTP                15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Docker              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+TypeScript          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
