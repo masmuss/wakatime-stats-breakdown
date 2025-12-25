@@ -1,18 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Total Time: 19 hrs 18 mins
+Total Time: 17 hrs 43 mins
 
-Go           12 hrs 29 mins  ████████████████░░░░░░░░░   64.60 %
-Markdown     3 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-SQL          1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Makefile     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-HTTP         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Docker       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go           11 hrs 42 mins  ████████████████▓░░░░░░░░   66.03 %
+Markdown     2 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+SQL          1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Makefile     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
