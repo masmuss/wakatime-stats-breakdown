@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-Total Time: 16 hrs 27 mins
+Total Time: 13 hrs 45 mins
 
-Go               7 hrs 28 mins   ███████████▒░░░░░░░░░░░░░   45.39 %
-Markdown         2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-TypeScript       1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-Svelte           1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Vue.js           1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Bash             36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-SQL              26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-jsonc            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Go               4 hrs 48 mins   ████████▓░░░░░░░░░░░░░░░░   34.91 %
+Markdown         2 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+TypeScript       1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Vue.js           1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Svelte           1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Bash             35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+SQL              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+jsonc            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
