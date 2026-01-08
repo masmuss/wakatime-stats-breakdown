@@ -1,17 +1,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Total Time: 25 hrs 13 mins
+Total Time: 23 hrs 56 mins
 
-Go            8 hrs 46 mins   ████████▓░░░░░░░░░░░░░░░░   34.49 %
-Astro         6 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-Markdown      3 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-TypeScript    3 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-Vue.js        57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-JavaScript    42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Other         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Go            10 hrs 59 mins  ███████████▒░░░░░░░░░░░░░   45.95 %
+Astro         4 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+Markdown      4 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+TypeScript    2 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+.env file     33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Image (svg)   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+CSS           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+jsonc         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Vue.js        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
